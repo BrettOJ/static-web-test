@@ -1,0 +1,3 @@
+# WebApp/requirements.txt
+
+streamlit==1.35.0
